@@ -20,7 +20,7 @@ Summarize PDFs locally using the `TinyLlama/TinyLlama-1.1B-Chat-v1.0` model from
     ```bash
     
     pip install -r requirements.txt
-Run the application:
+3. Run the application:
 
     ```bash
 
